@@ -16,7 +16,7 @@ body {
 
 /* Header */
 header {  
-    background-color: #5e5a48;
+    background-color: #c9c9bf;
     padding: 0;
     position: sticky;
     top: 0;
@@ -25,6 +25,7 @@ header {
 }
 
 .header-content {
+    background-color: #d6d1bdcb;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -188,6 +189,7 @@ nav ul li a:hover {
 
 /* Mission */
 .container3 {
+    background-color: rgba(223, 223, 226, 0.8); /* Agregada transparencia */
     display: flex;
     flex-direction: column;
 }
